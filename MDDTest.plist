@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://raw.githubusercontent.com/3261541585/YunKangLian/master/zx_YunKangLian.ipa</string>
+					<string>https://github.com/3261541585/YunKangLian/blob/master/huzhu_resigned.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -33,15 +33,15 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.zxhlrj.yunkanglian</string>
+				<string>com.huzhu.ios</string>
 				<key>bundle-version</key>
-				<string>1.0.7</string>
+				<string>1.0.10</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>subtitle</key>
 				<string></string>
 				<key>title</key>
-				<string>云康链</string>
+				<string>壹品庄园</string>
 			</dict>
 		</dict>
 	</array>
